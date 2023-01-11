@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="k8s.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="-5102"
+     inkscape:cy="2331"
+     inkscape:window-width="2771"
+     inkscape:window-height="1608"
+     inkscape:window-x="826"
+     inkscape:window-y="204"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5193" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-1730.0813"
+       y="-964.69379"
+       id="text1629"><tspan
+         sodipodi:role="line"
+         id="tspan1627"
+         style="font-size:50.8px;stroke-width:0.264583"
+         x="-1730.0813"
+         y="-964.69379">Migrating from OpenStack to K8s:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:50.8px;stroke-width:0.264583"
+         x="-1730.0813"
+         y="-901.19379"
+         id="tspan3914">lessons learned </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-239.7066"
+       y="-81.6931"
+       id="text3192"
+       transform="rotate(-90.094355)"
+       inkscape:transform-center-x="-6.6074835"
+       inkscape:transform-center-y="-30.205633"><tspan
+         sodipodi:role="line"
+         id="tspan3190"
+         style="stroke-width:0.264583"
+         x="-239.7066"
+         y="-81.6931">Rotated</tspan></text>
+    <image
+       width="1025.7896"
+       height="445.02917"
+       preserveAspectRatio="none"
+       xlink:href="Screenshot_20230109_144506.png"
+       id="image5060"
+       x="-1873.9551"
+       y="-730.98431" />
+    <image
+       width="12.29144"
+       height="5.0285873"
+       preserveAspectRatio="none"
+       xlink:href="Screenshot_20230109_144621.png"
+       id="image5102"
+       x="-1433.6233"
+       y="-411.48575" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-1588.4543"
+       y="499.55484"
+       id="text10452"><tspan
+         sodipodi:role="line"
+         id="tspan10450"
+         style="font-size:25.4px;stroke-width:0.264583"
+         x="-1588.4543"
+         y="499.55484">A little bit about myself</tspan></text>
+    <image
+       width="311.2879"
+       height="232.98555"
+       preserveAspectRatio="none"
+       xlink:href="../../../../Pictures/IMG_20220408_095836.jpg"
+       id="image13011"
+       x="-1864.3976"
+       y="543.99353" />
+    <image
+       width="320.41043"
+       height="292.36459"
+       preserveAspectRatio="none"
+       xlink:href="Peek%202023-01-09%2015-12.gif"
+       id="image22119"
+       x="-1621.8558"
+       y="975.95178" />
+    <image
+       width="629.70831"
+       height="292.10001"
+       preserveAspectRatio="none"
+       xlink:href="Screenshot_20230109_154737.png"
+       id="image22178"
+       x="-1664.0393"
+       y="-185.95036" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-1395.3242"
+       y="86.248863"
+       id="text22932"><tspan
+         sodipodi:role="line"
+         id="tspan22930"
+         style="font-weight:bold;font-size:50.8px;stroke-width:0.264583"
+         x="-1395.3242"
+         y="86.248863">3M</tspan></text>
+    <image
+       width="218.97888"
+       height="112.72627"
+       preserveAspectRatio="none"
+       xlink:href="architecture.png"
+       id="image27126"
+       x="-1476.9708"
+       y="191.54361" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-1471.3759"
+       y="557.85291"
+       id="text29902"><tspan
+         sodipodi:role="line"
+         id="tspan29900"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="557.85291">Invited to SDSC RCSB PDB group to design and implement K8s platform;</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="571.08203"
+         id="tspan29904" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="584.31116"
+         id="tspan29906">Previously worked as Scientific Software Developer/Architect at DESY, Hamburg, Germany</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="597.54028"
+         id="tspan31654" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="610.76941"
+         id="tspan31722">with main focus in designing SCADA and DCS systems as well as high level Meta Data acquisition systems</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="623.99854"
+         id="tspan34718" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1471.3759"
+         y="637.22766"
+         id="tspan34720">and even before that was a Full Stack Developer for a web based trading/analytics system</tspan></text>
+  </g>
+</svg>

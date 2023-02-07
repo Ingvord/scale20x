@@ -24,12 +24,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-5057.8062"
-     inkscape:cy="144.12834"
-     inkscape:window-width="3294"
+     inkscape:zoom="0.125"
+     inkscape:cx="2542.3436"
+     inkscape:cy="12469.155"
+     inkscape:window-width="3354"
      inkscape:window-height="1782"
-     inkscape:window-x="492"
+     inkscape:window-x="1618"
      inkscape:window-y="102"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
@@ -56,6 +56,14 @@
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path5193" />
     </marker>
+    <clipPath
+       id="clip0_15_21">
+      <rect
+         width="500"
+         height="171.38"
+         fill="white"
+         id="rect239717" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -125,14 +133,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1462.3816"
-       y="475.91745"
+       x="-1530.4403"
+       y="471.95575"
        id="text10452"><tspan
          sodipodi:role="line"
          id="tspan10450"
          style="font-size:25.4px;stroke-width:0.264583"
-         x="-1462.3816"
-         y="475.91745">A little bit about me</tspan></text>
+         x="-1530.4403"
+         y="471.95575">A little bit about me</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -191,8 +199,8 @@
        preserveAspectRatio="none"
        xlink:href="../../Pictures/IMG_20220408_095836.jpg"
        id="image13011"
-       x="-1804.5581"
-       y="504.64981" />
+       x="-1872.6168"
+       y="500.68811" />
     <image
        width="629.70831"
        height="292.10001"
@@ -211,7 +219,7 @@
          id="tspan22930"
          style="font-weight:bold;font-size:25.4px;stroke-width:0.264583"
          x="-1481.2144"
-         y="145.14435">~3M requests per day</tspan></text>
+         y="145.14435">~3M requests daily</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -227,7 +235,7 @@
          style="font-weight:bold;font-size:8.46667px;stroke-width:0.264583"
          x="-1445.9666"
          y="335.01123"
-         id="tspan98523">~160 running instances in total</tspan></text>
+         id="tspan98523">~160 running service instances in total</tspan></text>
     <image
        width="218.97888"
        height="112.72627"
@@ -238,76 +246,96 @@
        y="191.54361" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1483.6403"
-       y="575.76917"
+       style="font-style:normal;font-weight:normal;font-size:9.22919px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23073"
+       x="-1551.699"
+       y="569.8609"
        id="text29902"><tspan
          sodipodi:role="line"
-         id="tspan29900"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="575.76917">Invited to SDSC RCSB PDB group to design and implement K8s platform</tspan><tspan
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="569.8609"
+         id="tspan249315">Well-seasoned CEO-Minded Software Developer/Architect </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="588.99829"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="581.3974"
+         id="tspan249319">                                  with 15+ yrs of experience;</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="592.9339"
+         id="tspan184674" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="604.47034"
+         id="tspan184672">Invited to SDSC RCSB PDB group to design and implement K8s platform</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="616.00684"
          id="tspan126965">                                  and distributed reactive backend for their search API;</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="602.22742"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="627.54333"
          id="tspan29904" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="615.45654"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="639.07983"
          id="tspan29906">Previously worked as Scientific Software Developer/Architect </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="628.68567"
-         id="tspan122599">                                                                             at DESY, Hamburg, Germany;</tspan><tspan
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="650.61633"
+         id="tspan122599">                                                                             at DESY, Hamburg, Germany</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="641.91479"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="662.15277"
+         id="tspan182500">                                                                             and ESRF, Grenoble, France;</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="673.68927"
          id="tspan31654" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="655.14392"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="685.22577"
          id="tspan31722">with main focus in designing SCADA and DCS systems </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="668.37305"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="696.76227"
          id="tspan121187">                                     as well as high level Meta Data acquisition systems;</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="681.60217"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="708.29877"
          id="tspan34718" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="694.8313"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="719.83527"
          id="tspan34720">and even before that was a Full Stack Developer </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="-1483.6403"
-         y="708.06042"
+         style="stroke-width:0.23073"
+         x="-1551.699"
+         y="731.3717"
          id="tspan126345">                                                       for a web based trading/analytics system;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-1573.1122"
        y="-167.43929"
        id="text2086"><tspan
          sodipodi:role="line"
          id="tspan2084"
-         style="stroke-width:0.264583"
+         style="font-size:11.2889px;stroke-width:0.264583"
          x="-1573.1122"
-         y="-167.43929">aka rcsb.org</tspan></text>
+         y="-167.43929">Research Collaboratory for Structural Bioinformatics PDB aka rcsb.org</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -327,205 +355,205 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1873.3003"
-       y="1836.4719"
+       x="-1871.8475"
+       y="2337.0308"
        id="text1629-3-5"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1873.3003"
-         y="1836.4719"
+         x="-1871.8475"
+         y="2337.0308"
          id="tspan3914-7-3">Lesson 2: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1873.3003"
-         y="1899.9719"
+         x="-1871.8475"
+         y="2400.5308"
          id="tspan8170-5">choose your provider carefully</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1873.7083"
-       y="2169.5225"
+       x="-1872.4297"
+       y="2807.3831"
        id="text1629-3-5-6"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1873.7083"
-         y="2169.5225"
+         x="-1872.4297"
+         y="2807.3831"
          id="tspan3914-7-3-2">Lesson 3: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1873.7083"
-         y="2233.0225"
-         id="tspan8170-5-9">monitoring k8s resources</tspan></text>
+         x="-1872.4297"
+         y="2870.8831"
+         id="tspan8170-5-9">monitoring/controlling k8s resources</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1820.2153"
-       y="2564.1001"
+       x="-1749.3826"
+       y="3965.1633"
        id="text1629-3-5-6-1"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1820.2153"
-         y="2564.1001"
+         x="-1749.3826"
+         y="3965.1633"
          id="tspan3914-7-3-2-2">Lesson 4: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1820.2153"
-         y="2627.6001"
-         id="tspan8170-5-9-7">troubleshooting issues</tspan></text>
+         x="-1749.3826"
+         y="4028.6633"
+         id="tspan254570">troubleshooting issues</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1817.157"
-       y="2959.0325"
+       x="-1826.0703"
+       y="4744.001"
        id="text1629-3-5-6-1-0"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1817.157"
-         y="2959.0325"
+         x="-1826.0703"
+         y="4744.001"
          id="tspan3914-7-3-2-2-9">Lesson 5: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1817.157"
-         y="3022.5325"
+         x="-1826.0703"
+         y="4807.501"
          id="tspan8170-5-9-7-3">choosing the right tools</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1819.5624"
-       y="3437.6614"
+       x="-1828.4757"
+       y="5222.6299"
        id="text1629-3-5-6-1-0-6"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1819.5624"
-         y="3437.6614"
+         x="-1828.4757"
+         y="5222.6299"
          id="tspan3914-7-3-2-2-9-0">Lesson 6: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1819.5624"
-         y="3501.1614"
+         x="-1828.4757"
+         y="5286.1299"
          id="tspan8170-5-9-7-3-6">try with some continous tasks</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1822.5555"
-       y="3885.9048"
+       x="-1831.4689"
+       y="5670.873"
        id="text1629-3-5-6-1-0-6-7"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1822.5555"
-         y="3885.9048"
+         x="-1831.4689"
+         y="5670.873"
          id="tspan3914-7-3-2-2-9-0-9">Lesson 7: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1822.5555"
-         y="3949.4048"
+         x="-1831.4689"
+         y="5734.373"
          id="tspan8170-5-9-7-3-6-2">be prepared to invest time/resources into internal learning</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1843.9545"
-       y="4220"
+       x="-1852.8678"
+       y="6004.9683"
        id="text1629-3-5-6-1-0-6-7-5"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1843.9545"
-         y="4220"
+         x="-1852.8678"
+         y="6004.9683"
          id="tspan3914-7-3-2-2-9-0-9-4">Lesson 8: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1843.9545"
-         y="4283.5"
+         x="-1852.8678"
+         y="6068.4683"
          id="tspan8170-5-9-7-3-6-2-7">self hosted github/gitlab runners are great</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1851.3787"
-       y="4625.7271"
+       x="-1860.292"
+       y="6410.6953"
        id="text1629-3-5-6-1-0-6-7-2"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1851.3787"
-         y="4625.7271"
+         x="-1860.292"
+         y="6410.6953"
          id="tspan3914-7-3-2-2-9-0-9-2">Challenge 1: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1851.3787"
-         y="4689.2271"
+         x="-1860.292"
+         y="6474.1953"
          id="tspan8170-5-9-7-3-6-2-8">Multicluster VS Cluster federation VS Single cluster</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1853.9268"
-       y="5040.4312"
+       x="-1862.8401"
+       y="6825.3994"
        id="text1629-3-5-6-1-0-6-7-2-6"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1853.9268"
-         y="5040.4312"
+         x="-1862.8401"
+         y="6825.3994"
          id="tspan3914-7-3-2-2-9-0-9-2-1">Challenge 3: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1853.9268"
-         y="5103.9312"
+         x="-1862.8401"
+         y="6888.8994"
          id="tspan8170-5-9-7-3-6-2-8-2">Costal distributed docker registry</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1861.4835"
-       y="5281.1675"
+       x="-1870.3969"
+       y="7066.1357"
        id="text1629-3-5-6-1-0-6-7-2-6-0"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1861.4835"
-         y="5281.1675"
+         x="-1870.3969"
+         y="7066.1357"
          id="tspan3914-7-3-2-2-9-0-9-2-1-3">Challenge 4*: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1861.4835"
-         y="5344.6675"
+         x="-1870.3969"
+         y="7129.6357"
          id="tspan8170-5-9-7-3-6-2-8-2-6">Preserving log infrastructure</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1873.8673"
-       y="5650.7993"
+       x="-1882.7806"
+       y="7435.7676"
        id="text1629-3-5-6-1-0-6-7-2-6-0-6"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1873.8673"
-         y="5650.7993"
+         x="-1882.7806"
+         y="7435.7676"
          id="tspan3914-7-3-2-2-9-0-9-2-1-3-3">Challenge 5*: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1873.8673"
-         y="5714.2993"
+         x="-1882.7806"
+         y="7499.2676"
          id="tspan8170-5-9-7-3-6-2-8-2-6-2">Ingress routing</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1864.0128"
-       y="6022.5576"
+       x="-1872.9261"
+       y="7807.5259"
        id="text1629-3-5-6-1-0-6-7-2-6-0-6-7"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1864.0128"
-         y="6022.5576"
+         x="-1872.9261"
+         y="7807.5259"
          id="tspan8170-5-9-7-3-6-2-8-2-6-2-5">Many thanks to ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1855.9219"
-       y="4843.853"
+       x="-1864.8352"
+       y="6628.8213"
        id="text1629-3-5-6-1-0-6-7-2-9"><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1855.9219"
-         y="4843.853"
+         x="-1864.8352"
+         y="6628.8213"
          id="tspan3914-7-3-2-2-9-0-9-2-7">Challenge 2: </tspan><tspan
          sodipodi:role="line"
          style="font-size:50.8px;stroke-width:0.264583"
-         x="-1855.9219"
-         y="4907.353"
+         x="-1864.8352"
+         y="6692.3213"
          id="tspan8170-5-9-7-3-6-2-8-3">Storage</tspan></text>
     <image
        width="298.97916"
@@ -533,235 +561,251 @@
        preserveAspectRatio="none"
        xlink:href="Kubernetes%20setup@RCSB.jpg"
        id="image9359"
-       x="-1230.7625"
-       y="1159.9026" />
+       x="-957.91205"
+       y="1296.7014" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1675.3973"
-       y="3588.1624"
+       x="-1684.3107"
+       y="5373.1309"
        id="text32787"><tspan
          sodipodi:role="line"
          id="tspan32785"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1675.3973"
-         y="3588.1624">like CI/CD</tspan><tspan
+         x="-1684.3107"
+         y="5373.1309">like CI/CD</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1675.3973"
-         y="3616.3845"
+         x="-1684.3107"
+         y="5401.353"
          id="tspan48846">otherwise what works today may stop working tomorrow</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1766.8751"
-       y="4064.5383"
+       x="-1775.7885"
+       y="5849.5068"
        id="text32787-0"><tspan
          sodipodi:role="line"
          id="tspan32785-2"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1766.8751"
-         y="4064.5383">developers must know the basics</tspan><tspan
+         x="-1775.7885"
+         y="5849.5068">developers must know the basics</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1766.8751"
-         y="4092.7605"
+         x="-1775.7885"
+         y="5877.729"
          id="tspan47230">devops must be pretty advanced</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1766.8751"
-         y="4120.9829"
+         x="-1775.7885"
+         y="5905.9512"
          id="tspan47234">using k8s implies architectural changes</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1766.8751"
-         y="4149.2051"
+         x="-1775.7885"
+         y="5934.1738"
          id="tspan47236">using k8s implies understanding of its capabilities</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1778.2163"
-       y="4388.0962"
+       x="-1787.1296"
+       y="6173.0645"
        id="text32787-0-6"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1778.2163"
-         y="4388.0962"
+         x="-1787.1296"
+         y="6173.0645"
          id="tspan47236-3">unlimited possibilities in configuring/customizing runners</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1778.2163"
-         y="4416.3184"
+         x="-1787.1296"
+         y="6201.2866"
          id="tspan72990">resuse open-source helm charts</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1778.2163"
-         y="4444.5405"
+         x="-1787.1296"
+         y="6229.5088"
          id="tspan72992">allows quick learning in Helm; setting up secrets etc</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1602.3601"
-       y="5178.6938"
+       x="-1611.2734"
+       y="6963.6621"
        id="text32787-0-9"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1602.3601"
-         y="5178.6938"
+         x="-1611.2734"
+         y="6963.6621"
          id="tspan47236-4">Harbor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1604.205"
-       y="4960.3135"
+       x="-1613.1183"
+       y="6745.2817"
        id="text32787-0-9-7"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1604.205"
-         y="4960.3135"
+         x="-1613.1183"
+         y="6745.2817"
          id="tspan47236-4-8">Ceph</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1875.4711"
-       y="3139.0166"
+       x="-1884.3844"
+       y="4923.9854"
        id="text32787-2"><tspan
          sodipodi:role="line"
          id="tspan32785-6"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1875.4711"
-         y="3139.0166">Skaffold: dev + devops</tspan></text>
+         x="-1884.3844"
+         y="4923.9854">Skaffold: dev + devops</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1879.3354"
-       y="3229.4485"
+       x="-1888.2488"
+       y="5014.417"
        id="text32787-2-1"><tspan
          sodipodi:role="line"
          id="tspan32785-6-8"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1879.3354"
-         y="3229.4485">Helm over Kustomize (IDEA support)</tspan></text>
+         x="-1888.2488"
+         y="5014.417">Helm over Kustomize (IDEA support)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1901.475"
-       y="2334.26"
+       x="-2275.9668"
+       y="3171.6316"
        id="text32787-2-3"><tspan
          sodipodi:role="line"
          id="tspan32785-6-7"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1901.475"
-         y="2334.26">IDEA and Octant</tspan><tspan
+         x="-2275.9668"
+         y="3171.6316">IDEA and Octant</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1901.475"
-         y="2362.4822"
+         x="-2275.9668"
+         y="3199.8538"
          id="tspan78124">Elastic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1895.1042"
-       y="2746.8511"
+       x="-1625.5349"
+       y="2532.5256"
+       id="text32787-2-3-43"><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1625.5349"
+         y="2532.5256"
+         id="tspan78124-4">In our case we bound to SDSC</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1625.5349"
+         y="2560.7478"
+         id="tspan251295">basically means on-permises deployment i.e. pros and cons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-2285.8113"
+       y="4150.6904"
        id="text32787-2-3-5"><tspan
          sodipodi:role="line"
          id="tspan32785-6-7-9"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1895.1042"
-         y="2746.8511">kubectl is your friend</tspan><tspan
+         x="-2285.8113"
+         y="4150.6904">kubectl is your friend</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1895.1042"
-         y="2775.0732"
+         x="-2285.8113"
+         y="4178.9126"
          id="tspan81090">know namespaces</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1895.1042"
-         y="2803.2957"
+         x="-2285.8113"
+         y="4207.1348"
          id="tspan81088">get events</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1895.1042"
-         y="2831.5178"
+         x="-2285.8113"
+         y="4235.3574"
          id="tspan81092">get logs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1614.625"
-       y="4750.7891"
+       x="-1623.5383"
+       y="6535.7573"
        id="text32787-0-9-7-4"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1614.625"
-         y="4750.7891"
+         x="-1623.5383"
+         y="6535.7573"
          id="tspan47236-4-8-5">Multicluster</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1626.1102"
-       y="5471.2666"
+       x="-1635.0236"
+       y="7256.2349"
        id="text32787-0-9-1"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1626.1102"
-         y="5471.2666"
+         x="-1635.0236"
+         y="7256.2349"
          id="tspan47236-4-0">Ongoing effort</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1626.1102"
-         y="5499.4888"
+         x="-1635.0236"
+         y="7284.457"
          id="tspan66866">Have dedicated Elastic cluster</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1626.1102"
-         y="5527.7109"
+         x="-1635.0236"
+         y="7312.6792"
          id="tspan66868" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1615.7291"
-       y="5821.3442"
+       x="-1624.6425"
+       y="7606.3125"
        id="text32787-0-9-1-0"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1615.7291"
-         y="5821.3442"
+         x="-1624.6425"
+         y="7606.3125"
          id="tspan70213">sub-domain aka host based routing e.g. arches.k8s.rcsb.org</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1615.7291"
-         y="5849.5664"
+         x="-1624.6425"
+         y="7634.5347"
          id="tspan70217">alas path based routing ain't supported by our system, as otherwise does not require external DNS</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1615.7291"
-         y="5877.7886"
+         x="-1624.6425"
+         y="7662.7568"
          id="tspan66868-5" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1620.0441"
-       y="6186.4033"
+       x="-1628.9574"
+       y="7971.3716"
        id="text32787-0-9-1-0-2"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1620.0441"
-         y="6186.4033"
+         x="-1628.9574"
+         y="7971.3716"
          id="tspan70217-4">Jeremy Henry; Henry Chao;</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1620.0441"
-         y="6214.6255"
+         x="-1628.9574"
+         y="7999.5938"
          id="tspan79680">Jose Duarte</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1620.0441"
-         y="6242.8477"
+         x="-1628.9574"
+         y="8027.8159"
          id="tspan79682">SDSC team</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1620.0441"
-         y="6271.0703"
+         x="-1628.9574"
+         y="8056.0386"
          id="tspan66868-5-7" /></text>
     <image
        width="212.19583"
@@ -772,49 +816,647 @@
        x="-1473.1855"
        y="-1123.3201" />
     <image
-       width="323.05624"
-       height="216.42917"
+       width="75.66526"
+       height="50.691391"
        preserveAspectRatio="none"
        xlink:href="Kubernetes%20setup@RCSB_concept_map.jpg"
        id="image144260"
-       x="-973.23792"
-       y="1416.3572" />
+       x="-925.94305"
+       y="1354.8472" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1771.4329"
-       y="1243.1377"
+       x="-1767.4861"
+       y="1236.9677"
        id="text32787-2-3-4"><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1771.4329"
-         y="1243.1377"
+         x="-1767.4861"
+         y="1236.9677"
          id="tspan142956">Things to consider:</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1771.4329"
-         y="1271.36"
-         id="tspan142958">Security/Secrets</tspan><tspan
+         x="-1767.4861"
+         y="1265.1899"
+         id="tspan188408">    - Migration process</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1771.4329"
-         y="1299.5822"
-         id="tspan142960">Storage</tspan><tspan
+         x="-1767.4861"
+         y="1293.4121"
+         id="tspan188410">        A/B switch VS smooth migration</tspan><tspan
          sodipodi:role="line"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-1771.4329"
-         y="1327.8044"
-         id="tspan78124-3">Using 3rd party tools/utilities/infrastructure</tspan></text>
+         x="-1767.4861"
+         y="1321.6344"
+         id="tspan189294">    - Monitoring</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1349.8567"
+         id="tspan213064">    - CI/CD</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1378.0789"
+         id="tspan213516">    - Development</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1406.3011"
+         id="tspan213518">         Required knowledge base</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1434.5234"
+         id="tspan213520">         Tools/utilities</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1462.7456"
+         id="tspan213522">         New mindset</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1490.9679"
+         id="tspan213524">    - Infrastructure:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1519.1902"
+         id="tspan230568" /><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1547.4124"
+         id="tspan142960">         Storage</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1575.6346"
+         id="tspan189298">             NFS -&gt; CEPHFS*</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1603.8569"
+         id="tspan201300" /><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1632.0792"
+         id="tspan208121">    - Technical challenges</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1660.3014"
+         id="tspan78124-3">    - Choosing 3rd party tools/utilities/infrastructure</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:22.5778px;stroke-width:0.264583"
+         x="-1767.4861"
+         y="1688.5237"
+         id="tspan190740">    </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-1612.0146"
-       y="1533.0729"
+       x="-1006.9593"
+       y="1279.3539"
        id="text151442"><tspan
          sodipodi:role="line"
          id="tspan151440"
          style="font-size:25.4px;stroke-width:0.264583"
-         x="-1612.0146"
-         y="1533.0729">Concept maps help greatly!</tspan></text>
+         x="-1006.9593"
+         y="1279.3539">Concept maps help greatly!</tspan></text>
+    <image
+       width="1.5707632"
+       height="0.97321165"
+       preserveAspectRatio="none"
+       xlink:href="UC-San-Diego-Super-Computer-1200x500.jpg"
+       id="image181139"
+       x="-1428.1832"
+       y="-410.22128" />
+    <image
+       width="1.7066367"
+       height="1.066648"
+       preserveAspectRatio="none"
+       xlink:href="PR20201208_Expanse_640x400.jpg"
+       id="image181181"
+       x="-1429.1552"
+       y="-408.95456" />
+    <image
+       width="456.84579"
+       height="296.95944"
+       preserveAspectRatio="none"
+       xlink:href="Peek%202023-02-06%2010-40.gif"
+       id="image199602"
+       x="-1686.87"
+       y="1673.387" />
+    <image
+       width="74.700943"
+       height="78.846733"
+       preserveAspectRatio="none"
+       xlink:href="Kubernetes%20setup@RCSB_technical.jpg"
+       id="image199954"
+       x="-831.53656"
+       y="1319.6085" />
+    <image
+       width="62.487648"
+       height="58.965504"
+       preserveAspectRatio="none"
+       xlink:href="Kubernetes%20setup@RCSB_workflows.jpg"
+       id="image203071"
+       x="-830.3515"
+       y="1462.8297" />
+    <g
+       id="g235155"
+       transform="matrix(3.8869126,0,0,3.5395041,-1829.5722,2992.4658)">
+	<g
+   id="g235143">
+		<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="0.78979999"
+   y1="40.089298"
+   x2="33.3172"
+   y2="40.089298">
+			<stop
+   offset="0.2581"
+   style="stop-color:#F97A12"
+   id="stop235065" />
+
+			<stop
+   offset="0.4591"
+   style="stop-color:#B07B58"
+   id="stop235067" />
+
+			<stop
+   offset="0.7241"
+   style="stop-color:#577BAE"
+   id="stop235069" />
+
+			<stop
+   offset="0.9105"
+   style="stop-color:#1E7CE5"
+   id="stop235071" />
+
+			<stop
+   offset="1"
+   style="stop-color:#087CFA"
+   id="stop235073" />
+
+		</linearGradient>
+
+		<polygon
+   style="fill:url(#SVGID_1_)"
+   points="9.2,25.6 33.3,35 17.7,54.6 0.8,41.2 "
+   id="polygon235076" />
+
+		<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="25.767401"
+   y1="24.879999"
+   x2="79.424004"
+   y2="54.57">
+			<stop
+   offset="0"
+   style="stop-color:#F97A12"
+   id="stop235078" />
+
+			<stop
+   offset="7.179946e-002"
+   style="stop-color:#CB7A3E"
+   id="stop235080" />
+
+			<stop
+   offset="0.1541"
+   style="stop-color:#9E7B6A"
+   id="stop235082" />
+
+			<stop
+   offset="0.242"
+   style="stop-color:#757B91"
+   id="stop235084" />
+
+			<stop
+   offset="0.3344"
+   style="stop-color:#537BB1"
+   id="stop235086" />
+
+			<stop
+   offset="0.4324"
+   style="stop-color:#387CCC"
+   id="stop235088" />
+
+			<stop
+   offset="0.5381"
+   style="stop-color:#237CE0"
+   id="stop235090" />
+
+			<stop
+   offset="0.6552"
+   style="stop-color:#147CEF"
+   id="stop235092" />
+
+			<stop
+   offset="0.7925"
+   style="stop-color:#0B7CF7"
+   id="stop235094" />
+
+			<stop
+   offset="1"
+   style="stop-color:#087CFA"
+   id="stop235096" />
+
+		</linearGradient>
+
+		<polygon
+   style="fill:url(#SVGID_2_)"
+   points="48.2,1.1 70,18.7 68.7,59.2 41.8,70 25.6,59.6 49.3,35 38.9,12.3 "
+   id="polygon235099" />
+
+		<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="63.227699"
+   y1="42.915298"
+   x2="48.290298"
+   y2="-1.7191">
+			<stop
+   offset="0"
+   style="stop-color:#FE315D"
+   id="stop235101" />
+
+			<stop
+   offset="7.840246e-002"
+   style="stop-color:#CB417E"
+   id="stop235103" />
+
+			<stop
+   offset="0.1601"
+   style="stop-color:#9E4E9B"
+   id="stop235105" />
+
+			<stop
+   offset="0.2474"
+   style="stop-color:#755BB4"
+   id="stop235107" />
+
+			<stop
+   offset="0.3392"
+   style="stop-color:#5365CA"
+   id="stop235109" />
+
+			<stop
+   offset="0.4365"
+   style="stop-color:#386DDB"
+   id="stop235111" />
+
+			<stop
+   offset="0.5414"
+   style="stop-color:#2374E9"
+   id="stop235113" />
+
+			<stop
+   offset="0.6576"
+   style="stop-color:#1478F3"
+   id="stop235115" />
+
+			<stop
+   offset="0.794"
+   style="stop-color:#0B7BF8"
+   id="stop235117" />
+
+			<stop
+   offset="1"
+   style="stop-color:#087CFA"
+   id="stop235119" />
+
+		</linearGradient>
+
+		<polygon
+   style="fill:url(#SVGID_3_)"
+   points="38.9,12.3 48.2,1.1 70,18.7 48.7,43.9 "
+   id="polygon235122" />
+
+		<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="10.7204"
+   y1="16.473"
+   x2="55.523701"
+   y2="90.580002">
+			<stop
+   offset="0"
+   style="stop-color:#FE315D"
+   id="stop235124" />
+
+			<stop
+   offset="4.023279e-002"
+   style="stop-color:#F63462"
+   id="stop235126" />
+
+			<stop
+   offset="0.1037"
+   style="stop-color:#DF3A71"
+   id="stop235128" />
+
+			<stop
+   offset="0.1667"
+   style="stop-color:#C24383"
+   id="stop235130" />
+
+			<stop
+   offset="0.2912"
+   style="stop-color:#AD4A91"
+   id="stop235132" />
+
+			<stop
+   offset="0.5498"
+   style="stop-color:#755BB4"
+   id="stop235134" />
+
+			<stop
+   offset="0.9175"
+   style="stop-color:#1D76ED"
+   id="stop235136" />
+
+			<stop
+   offset="1"
+   style="stop-color:#087CFA"
+   id="stop235138" />
+
+		</linearGradient>
+
+		<polygon
+   style="fill:url(#SVGID_4_)"
+   points="32.1,2.7 53.7,27.4 33.7,58.1 5.6,68.3 10.1,52.5 16,33.1 0,27.7 10.1,0 "
+   id="polygon235141" />
+
+	</g>
+
+	<g
+   id="g235153">
+		<rect
+   x="13.7"
+   y="13.5"
+   style="fill:#000000"
+   width="43.200001"
+   height="43.200001"
+   id="rect235145" />
+
+		<rect
+   x="17.700001"
+   y="48.599998"
+   style="fill:#ffffff"
+   width="16.200001"
+   height="2.7"
+   id="rect235147" />
+
+		<polygon
+   style="fill:#ffffff"
+   points="20.4,33.7 20.4,37 29.4,37 29.4,33.7 26.9,33.7 26.9,22.4 29.4,22.4 29.4,19.1 20.4,19.1 20.4,22.4 23,22.4 23,33.7 "
+   id="polygon235149" />
+
+		<path
+   style="fill:#ffffff"
+   d="M 38,37.3 C 36.6,37.3 35.4,37 34.5,36.5 33.6,36 32.8,35.3 32.2,34.6 l 2.5,-2.8 c 0.5,0.6 1,1 1.5,1.3 0.5,0.3 1.1,0.5 1.7,0.5 0.7,0 1.3,-0.2 1.8,-0.7 0.4,-0.5 0.6,-1.2 0.6,-2.3 V 19.1 h 4 v 11.7 c 0,1.1 -0.1,2 -0.4,2.8 -0.3,0.8 -0.7,1.4 -1.3,2 -0.5,0.5 -1.2,1 -2,1.2 -0.8,0.3 -1.6,0.5 -2.6,0.5"
+   id="path235151" />
+
+	</g>
+
+</g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-1852.8385"
+       y="3351.4062"
+       id="text238336"><tspan
+         sodipodi:role="line"
+         id="tspan238334"
+         style="stroke-width:0.264583"
+         x="-1852.8385"
+         y="3351.4062">* not affilated with any of them</tspan></text>
+    <g
+       id="g239630"
+       transform="matrix(1.2754643,0,0,1.2754643,-1481.1536,3029.3964)">
+      <g
+         id="Layer_5">
+</g>
+      <g
+         id="Layer_2">
+</g>
+      <g
+         id="Layer_4">
+</g>
+      <g
+         id="Layer_7">
+</g>
+      <g
+         id="Layer_6">
+</g>
+      <g
+         id="Layer_8">
+	<g
+   id="g239593">
+		<g
+   id="g239567">
+			<g
+   id="g239565">
+				<path
+   class="st1"
+   d="m 159.9,100 c -3.3,-1.9 -5.8,-4.5 -7.8,-7.8 -1.9,-3.3 -2.9,-6.8 -2.9,-10.6 0,-3.8 1,-7.3 2.9,-10.6 1.9,-3.3 4.5,-5.9 7.8,-7.8 3.3,-1.9 6.8,-2.9 10.5,-2.9 3.8,0 7.2,1 10.5,2.9 3.2,1.9 5.8,4.5 7.7,7.8 1.9,3.3 2.9,6.8 2.9,10.6 0,3.8 -1,7.3 -2.9,10.6 -1.9,3.3 -4.5,5.9 -7.7,7.8 -3.2,1.9 -6.7,2.9 -10.5,2.9 -3.8,0 -7.2,-0.9 -10.5,-2.9 z m 18.6,-3.7 c 2.5,-1.6 4.5,-3.6 6,-6.2 1.5,-2.6 2.2,-5.4 2.2,-8.5 0,-3 -0.7,-5.8 -2.2,-8.4 -1.5,-2.6 -3.5,-4.7 -6,-6.2 -2.5,-1.5 -5.2,-2.3 -8.1,-2.3 -2.9,0 -5.6,0.8 -8.1,2.3 -2.5,1.5 -4.5,3.6 -6,6.2 -1.5,2.6 -2.2,5.4 -2.2,8.4 0,3 0.8,5.9 2.2,8.5 1.5,2.6 3.5,4.7 6,6.2 2.5,1.5 5.2,2.3 8.1,2.3 2.9,0 5.6,-0.8 8.1,-2.3 z"
+   id="path239553" />
+
+				<path
+   class="st1"
+   d="m 208.3,100 c -3.3,-1.9 -5.8,-4.5 -7.8,-7.8 -1.9,-3.3 -2.9,-6.8 -2.9,-10.6 0,-3.8 1,-7.3 2.9,-10.6 1.9,-3.3 4.5,-5.9 7.8,-7.8 3.3,-1.9 6.8,-2.9 10.5,-2.9 2.8,0 5.5,0.6 8,1.6 2.6,1.1 4.8,2.7 6.8,4.6 l -3.2,3.2 c -1.5,-1.6 -3.3,-2.9 -5.3,-3.8 -2,-0.9 -4.1,-1.4 -6.3,-1.4 -2.9,0 -5.6,0.8 -8.1,2.3 -2.5,1.5 -4.5,3.6 -6,6.2 -1.5,2.6 -2.2,5.4 -2.2,8.4 0,3 0.8,5.9 2.2,8.5 1.5,2.6 3.5,4.7 6,6.2 2.5,1.5 5.2,2.3 8.1,2.3 2.2,0 4.3,-0.5 6.3,-1.4 2,-0.9 3.8,-2.2 5.3,-3.8 l 3.2,3.2 c -2,2 -4.2,3.5 -6.8,4.6 -2.6,1.1 -5.2,1.7 -8,1.7 -3.8,0.2 -7.3,-0.7 -10.5,-2.7 z"
+   id="path239555" />
+
+				<path
+   class="st1"
+   d="M 250.5,65.4 H 236.6 V 61 H 269 v 4.4 h -13.9 v 36.8 h -4.7 V 65.4 Z"
+   id="path239557" />
+
+				<path
+   class="st1"
+   d="m 303.7,92.9 h -23 l -4.1,9.4 h -5.1 L 289.6,61 h 5.1 l 18.2,41.2 h -5.1 z m -1.9,-4.5 -9.5,-21.7 -9.6,21.7 z"
+   id="path239559" />
+
+				<path
+   class="st1"
+   d="m 320.4,61 h 4.7 l 25.6,33.5 V 61 h 4.7 v 41.2 h -4.7 L 325,68.7 v 33.5 h -4.7 V 61 Z"
+   id="path239561" />
+
+				<path
+   class="st1"
+   d="M 376.6,65.4 H 362.7 V 61 h 32.4 v 4.4 h -13.9 v 36.8 h -4.7 V 65.4 Z"
+   id="path239563" />
+
+			</g>
+
+		</g>
+
+		<g
+   id="g239591">
+			<circle
+   class="st2"
+   cx="71.400002"
+   cy="79.099998"
+   r="52.5"
+   id="circle239569" />
+
+			<path
+   class="st3"
+   d="m 76.6,124.7 v 0 c 0,2.8 -2.2,5 -5,5 v 0 c -2.8,0 -5,-2.2 -5,-5 v 0 c 0,-2.7 2.2,-5 5,-5 v 0 c 2.8,0 5,2.3 5,5 z"
+   id="path239571" />
+
+			<path
+   class="st4"
+   d="m 71.4,26.6 c -29,0 -52.5,23.5 -52.5,52.5 0,13.9 5.4,26.6 14.3,35.9 v 0 c 1.4,1.5 2.9,2.8 4.4,4.1 l 3.6,-9.8 c -1.7,-1.7 -3.3,-3.6 -4.7,-5.6 v 0 c -4.9,-7 -7.9,-15.5 -7.9,-24.7 0,-23.7 19.2,-42.8 42.8,-42.8 23.6,0 42.8,19.2 42.8,42.8 0,9 -2.8,17.3 -7.5,24.2 -1.5,2.1 -3.1,4.1 -4.9,5.9 l 3.6,9.8 c 1.6,-1.4 3.2,-2.8 4.6,-4.4 8.6,-9.3 13.8,-21.8 13.8,-35.5 0.1,-28.9 -23.4,-52.4 -52.4,-52.4 z"
+   id="path239573" />
+
+			<path
+   class="st5"
+   d="m 101.8,109.2 -23.3,-63.7 -3.3,1.2 -0.6,-2.8 -1.2,0.2 14.8,74.3 c -4.3,1.9 -9,3 -14,3.4 -1,0.1 -1.9,0.1 -2.9,0.1 -0.8,0 -1.6,0 -2.4,-0.1 -5.1,-0.3 -9.9,-1.5 -14.4,-3.4 l 14.8,-74.3 -1.2,-0.2 -0.6,2.8 -3.2,-1.2 -23.4,63.8 -3.6,9.8 c 0.4,0.4 0.9,0.8 1.3,1.1 v -0.1 0 0.1 c 0,0 0,0 0,0 v 0 c 0.7,0.6 1.5,1.1 2.3,1.7 1.2,0.8 2.4,1.6 3.7,2.4 v 0 c 7.8,4.6 16.9,7.3 26.6,7.3 9.9,0 19.2,-2.8 27.1,-7.5 v 0 c 1.2,-0.7 2.3,-1.5 3.4,-2.3 0.9,-0.6 1.7,-1.2 2.5,-1.9 0.4,-0.3 0.7,-0.6 1.1,-0.9 z m -53.9,5.7 c -1.1,-0.8 -2.2,-1.6 -3.3,-2.4 L 66.6,52.6 53.5,118 c -2,-0.9 -3.8,-1.9 -5.6,-3.1 z m 47.4,-0.3 v 0 c -1.9,1.3 -3.8,2.4 -5.9,3.3 L 76.3,52 98.4,112.4 c -1,0.7 -2,1.5 -3.1,2.2 z"
+   id="path239575" />
+
+			<g
+   id="g239581">
+				<polygon
+   class="st2"
+   points="63.3,24.9 61.1,33.9 66.9,41.2 76.1,41.2 82,33.8 79.9,24.9 71.6,20.7 "
+   id="polygon239577" />
+
+				<path
+   class="st3"
+   d="m 76.5,31.3 v 0 c 0,2.8 -2.2,5 -5,5 v 0 c -2.8,0 -5,-2.2 -5,-5 v 0 c 0,-2.7 2.2,-5 5,-5 v 0 c 2.8,0 5,2.2 5,5 z"
+   id="path239579" />
+
+			</g>
+
+			<path
+   class="st6"
+   d="M 89.6,35.5 86,20.1 71.6,12.9 57.3,20 53.5,35.5 63.6,48.2 h 4.3 v 69.2 h 7 V 48.2 h 4.6 z m -22.7,5.7 -5.8,-7.3 2.2,-9 8.3,-4.1 8.3,4.1 2.1,9 -5.9,7.3 z"
+   id="path239583" />
+
+			<g
+   id="g239589">
+				<path
+   class="st2"
+   d="m 70.6,121.2 c -2.7,0.4 -4.6,2.9 -4.2,5.7 0.4,2.7 2.9,4.6 5.7,4.2 2.7,-0.4 4.6,-2.9 4.2,-5.7 -0.4,-2.8 -3,-4.6 -5.7,-4.2 z"
+   id="path239585" />
+
+				<path
+   class="st3"
+   d="m 82.2,124.5 c -0.9,-6 -6.5,-10.2 -12.5,-9.3 v 0 c -6,0.9 -10.2,6.5 -9.3,12.5 0.8,5.5 5.5,9.4 10.9,9.4 0.5,0 1.1,0 1.6,-0.1 6,-0.9 10.2,-6.5 9.3,-12.5 z M 72.1,131 c -2.7,0.4 -5.3,-1.5 -5.7,-4.2 -0.4,-2.7 1.5,-5.3 4.2,-5.7 2.7,-0.4 5.3,1.5 5.7,4.2 0.4,2.8 -1.5,5.3 -4.2,5.7 z"
+   id="path239587" />
+
+			</g>
+
+		</g>
+
+	</g>
+
+</g>
+    </g>
+    <g
+       style="fill:none"
+       id="g239743"
+       transform="matrix(0.93356112,0,0,0.93356112,-909.87668,3042.9738)">
+      <g
+         clip-path="url(#clip0_15_21)"
+         id="g239715">
+        <path
+           d="m 172.05,89.79 c 0.016,-6.9814 -2.126,-13.7971 -6.135,-19.5133 -4.008,-5.7161 -9.686,-10.0531 -16.255,-12.4167 0.598,-3.047 0.899,-6.1448 0.9,-9.25 0.006,-10.2781 -3.248,-20.2933 -9.293,-28.6057 C 135.222,11.6919 126.697,5.51043 116.917,2.3487 107.138,-0.813038 96.6072,-0.792202 86.8401,2.40821 77.073,5.60863 68.5722,11.8238 62.5601,20.16 58.1246,16.7229 52.6898,14.8248 47.0788,14.7535 41.4678,14.6822 35.9865,16.4414 31.465,19.7646 26.9435,23.0879 23.6283,27.7942 22.0214,33.1707 20.4146,38.5471 20.6037,44.3007 22.5601,49.56 15.9754,51.9601 10.2837,56.3191 6.25042,62.0507 2.21719,67.7824 0.0359539,74.6117 1.15291e-4,81.62 -0.018156,88.6256 2.13571,95.4646 6.16517,101.195 c 4.02943,5.731 9.73633,10.072 16.33493,12.425 -0.5841,3.046 -0.8821,6.139 -0.89,9.24 -0.0098,10.266 3.241,20.27 9.2836,28.57 6.0427,8.299 14.5649,14.465 24.338,17.609 9.7731,3.143 20.292,3.102 30.04,-0.119 9.748,-3.22 18.2213,-9.453 24.1983,-17.8 4.423,3.446 9.848,5.355 15.454,5.439 5.606,0.084 11.086,-1.663 15.609,-4.975 4.524,-3.313 7.844,-8.01 9.456,-13.379 1.613,-5.37 1.431,-11.118 -0.519,-16.375 6.588,-2.396 12.284,-6.754 16.319,-12.486 4.036,-5.732 6.217,-12.5637 6.251,-19.574"
+           fill="#ffffff"
+           id="path239687" />
+        <path
+           d="m 67.64,73.81 37.65,17.19 38,-33.28 c 0.547,-2.746 0.819,-5.5399 0.81,-8.34 -0.002,-9.065 -2.905,-17.8914 -8.285,-25.1877 C 130.436,16.896 122.863,11.5129 114.203,8.83068 105.544,6.14846 96.254,6.30793 87.6921,9.28575 79.1301,12.2636 71.7459,17.9034 66.62,25.38 l -6.33,32.74 z"
+           fill="#fec514"
+           id="path239689" />
+        <path
+           d="m 28.6701,113.68 c -0.5551,2.789 -0.8332,5.626 -0.83,8.47 2e-4,9.103 2.9182,17.966 8.3258,25.288 5.4076,7.323 13.0199,12.719 21.7198,15.397 8.6999,2.678 18.0292,2.497 26.6186,-0.517 8.5894,-3.013 15.9867,-8.701 21.1057,-16.228 l 6.27,-32.67 -8.37,-15.9999 -37.7899,-17.22 z"
+           fill="#00bfb3"
+           id="path239691" />
+        <path
+           d="m 28.4401,48.53 25.8,6.09 5.65,-29.34 c -3.5092,-2.6609 -7.7859,-4.1135 -12.1897,-4.1403 -4.4039,-0.0269 -8.698,1.3736 -12.2393,3.9916 -3.5413,2.6179 -6.1393,6.3126 -7.405,10.5307 -1.2657,4.2182 -1.131,8.7328 0.384,12.868 z"
+           fill="#f04e98"
+           id="path239693" />
+        <path
+           d="M 26.2002,54.67 C 20.5394,56.5802 15.6146,60.2071 12.1108,65.0461 8.60695,69.8852 6.69825,75.6959 6.65015,81.67 c -0.00407,5.7739 1.74934,11.4122 5.02715,16.1654 3.2777,4.7536 7.9246,8.3966 13.3229,10.4446 l 36.2,-32.72 -6.65,-14.2 z"
+           fill="#1ba9f5"
+           id="path239695" />
+        <path
+           d="m 112.23,146.09 c 3.504,2.647 7.77,4.091 12.161,4.114 4.391,0.023 8.672,-1.374 12.203,-3.984 3.532,-2.61 6.124,-6.293 7.391,-10.498 1.266,-4.204 1.138,-8.706 -0.365,-12.832 l -25.78,-6 z"
+           fill="#93c90e"
+           id="path239697" />
+        <path
+           d="m 117.47,110.1 28.38,6.63 c 5.664,-1.905 10.592,-5.53 14.097,-10.371 3.505,-4.84 5.411,-10.6533 5.453,-16.6289 -0.005,-5.7617 -1.762,-11.3856 -5.037,-16.1257 -3.276,-4.74 -7.915,-8.3721 -13.303,-10.4143 l -37.12,32.5 z"
+           fill="#0077cc"
+           id="path239699" />
+        <path
+           d="m 240.56,120.4 3.44,-0.35 0.24,7 c -7.655,1.156 -15.379,1.791 -23.12,1.9 -8.533,0 -14.58,-2.47 -18.14,-7.41 -3.56,-4.94 -5.337,-12.627 -5.33,-23.06 0,-20.78 8.26,-31.1733 24.78,-31.18 8,0 13.967,2.2334 17.9,6.7 3.934,4.4667 5.907,11.4667 5.92,21 l -0.47,6.76 h -39.12 c 0,6.56 1.187,11.42 3.56,14.58 2.374,3.16 6.5,4.74 12.38,4.74 5.894,0.02 11.88,-0.207 17.96,-0.68 z m -3.2,-25.72 c 0,-7.2733 -1.163,-12.41 -3.49,-15.41 -2.327,-3 -6.12,-4.5033 -11.38,-4.51 -5.26,0 -9.213,1.58 -11.86,4.74 -2.646,3.16 -4.01,8.22 -4.09,15.18 z"
+           fill="#1c1e23"
+           id="path239701" />
+        <path
+           d="m 258.65,128.48 v -78 h 8.89 v 78 z"
+           fill="#1c1e23"
+           id="path239703" />
+        <path
+           d="m 323.53,86.38 v 29.9 c 0,3 7.38,2.84 7.38,2.84 l -0.45,7.86 c -6.25,0 -11.42,0.52 -14.52,-2.49 -6.713,2.982 -13.985,4.499 -21.33,4.45 -5.447,0 -9.597,-1.543 -12.45,-4.63 -2.853,-3.087 -4.277,-7.523 -4.27,-13.31 0,-5.773 1.463,-10.023 4.39,-12.75 2.927,-2.7266 7.51,-4.3933 13.75,-5 l 18.61,-1.77 v -5.1 c 0,-4 -0.867,-6.8866 -2.6,-8.66 -0.95,-0.8915 -2.07,-1.5815 -3.294,-2.0283 -1.224,-0.4468 -2.525,-0.6413 -3.826,-0.5717 h -23.36 v -7.83 h 22.77 c 6.72,0 11.6,1.5434 14.64,4.63 3.04,3.0867 4.56,7.9067 4.56,14.46 z M 287,110.56 c 0,7.273 3,10.91 9,10.91 5.413,-0.006 10.786,-0.929 15.89,-2.73 l 2.72,-0.95 V 98.23 l -17.51,1.66 c -3.56,0.32 -6.13,1.347 -7.71,3.08 -1.58,1.733 -2.377,4.263 -2.39,7.59 z"
+           fill="#1c1e23"
+           id="path239705" />
+        <path
+           d="m 358.24,75.24 c -8.62,0 -12.93,3 -12.93,9 0,2.7734 1,4.73 3,5.87 2,1.14 6.504,2.3267 13.51,3.56 7.04,1.2334 12.02,2.9534 14.94,5.16 2.92,2.207 4.384,6.353 4.39,12.44 0,6.093 -1.956,10.56 -5.87,13.4 -3.913,2.84 -9.623,4.263 -17.13,4.27 -4.9,0 -21.26,-1.82 -21.26,-1.82 l 0.48,-7.7 c 9.4,0.9 16.19,1.57 20.78,1.57 4.59,0 8.08,-0.73 10.49,-2.19 2.41,-1.46 3.61,-3.91 3.61,-7.35 0,-3.44 -1,-5.77 -3.08,-7 -2.08,-1.23 -6.56,-2.39 -13.51,-3.5 -6.95,-1.11 -11.9,-2.73 -14.82,-4.86 -2.92,-2.13 -4.39,-6.09 -4.39,-11.86 0,-5.77 2,-10 6.11,-12.8 4.11,-2.8 9.15,-4.15 15.23,-4.15 4.82,0 21.55,1.23 21.55,1.23 v 7.75 c -8.83,-0.39 -16.05,-1.02 -21.1,-1.02 z"
+           fill="#1c1e23"
+           id="path239707" />
+        <path
+           d="M 424,76.1801 H 405.15 V 104.52 c 0,6.793 0.493,11.257 1.48,13.39 1,2.14 3.34,3.2 7.05,3.2 l 10.55,-0.71 0.6,7.35 c -3.995,0.739 -8.04,1.176 -12.1,1.31 -6.16,0 -10.427,-1.503 -12.8,-4.51 -2.373,-3.007 -3.557,-8.737 -3.55,-17.19 V 76.1801 H 388 v -7.7 h 8.42 v -18.14 h 8.77 v 18.14 H 424 Z"
+           fill="#1c1e23"
+           id="path239709" />
+        <path
+           d="m 436.36,60.9101 v -10.32 h 8.89 v 10.32 z m 0,67.5699 V 68.4801 h 8.89 V 128.48 Z"
+           fill="#1c1e23"
+           id="path239711" />
+        <path
+           d="m 483.76,67.29 c 4.44,0.1895 8.862,0.6672 13.24,1.43 l 2.84,0.35 -0.35,7.23 c -4.646,-0.5886 -9.318,-0.9424 -14,-1.06 -6.72,0 -11.283,1.6 -13.69,4.8 -2.407,3.2 -3.613,9.1267 -3.62,17.78 0,8.667 1.127,14.693 3.38,18.08 2.253,3.387 6.953,5.087 14.1,5.1 l 14,-1.06 0.36,7.35 c -5.45,0.923 -10.955,1.478 -16.48,1.66 -9.24,0 -15.62,-2.373 -19.14,-7.12 -3.52,-4.747 -5.28,-12.747 -5.28,-24 0,-11.26 1.897,-19.1633 5.69,-23.71 3.793,-4.5466 10.11,-6.8233 18.95,-6.83 z"
+           fill="#1c1e23"
+           id="path239713" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-1642.6588"
+       y="4218.1978"
+       id="text238336-9"><tspan
+         sodipodi:role="line"
+         id="tspan238334-2"
+         style="stroke-width:0.264583"
+         x="-1642.6588"
+         y="4218.1978">Or how we learned that </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1642.6588"
+         y="4249.9478"
+         id="tspan263693">              &quot;deployments do not create pods, replicasets do&quot; the hard way</tspan></text>
+    <image
+       width="457.72916"
+       height="302.68332"
+       preserveAspectRatio="none"
+       xlink:href="Screenshot_20230207_155159.png"
+       id="image265555"
+       x="761.53149"
+       y="3552.6489" />
   </g>
+  <style
+     type="text/css"
+     id="style239546">
+	.st0{display:none;fill:#FFFFFF;}
+	.st1{fill:#717073;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#62BB46;}
+	.st4{fill:#727175;}
+	.st5{fill:#00438C;}
+	.st6{fill:#009CDC;}
+</style>
 </svg>

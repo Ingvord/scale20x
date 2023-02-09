@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.25"
-     inkscape:cx="-3587.4401"
-     inkscape:cy="20808.375"
+     inkscape:cx="2409.0631"
+     inkscape:cy="10883.094"
      inkscape:window-width="3354"
      inkscape:window-height="1782"
      inkscape:window-x="1618"
@@ -397,7 +397,7 @@
          id="tspan22930"
          style="font-weight:bold;font-size:25.4px;stroke-width:0.264583"
          x="-1481.2144"
-         y="145.14435">~3M requests daily</tspan></text>
+         y="145.14435">~3.5M requests daily</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1891,6 +1891,38 @@
        id="image273934"
        x="-1597.7725"
        y="5034.1641" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-200.79025"
+       y="2849.9053"
+       id="text281507"><tspan
+         sodipodi:role="line"
+         id="tspan281505"
+         style="stroke-width:0.264583"
+         x="-200.79025"
+         y="2849.9053">IDEA:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-200.79025"
+         y="2881.6553"
+         id="tspan281509">service tab -&gt; k8s -&gt; configuration -&gt; open in new tab -&gt; switch namespaces -&gt; folow log -&gt; show yaml -&gt; console -&gt; port forwarding -&gt; iterate through resoruces -&gt; switch context</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-204.63033"
+       y="2993.9626"
+       id="text285707"><tspan
+         sodipodi:role="line"
+         id="tspan285705"
+         style="stroke-width:0.264583"
+         x="-204.63033"
+         y="2993.9626">Octant:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-204.63033"
+         y="3025.7126"
+         id="tspan285709">cluster overview -&gt; namespaces -&gt; nodes -&gt; applications -&gt; peak java -&gt; namespace overview -&gt; terminal -&gt; log</tspan></text>
   </g>
   <style
      type="text/css"

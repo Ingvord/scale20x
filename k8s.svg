@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.25"
-     inkscape:cx="2409.0631"
-     inkscape:cy="10883.094"
+     inkscape:zoom="0.125"
+     inkscape:cx="-3060.4467"
+     inkscape:cy="18618.614"
      inkscape:window-width="3354"
      inkscape:window-height="1782"
      inkscape:window-x="1618"
@@ -831,25 +831,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-2310.9067"
-       y="4907.3145"
+       x="-2688.0168"
+       y="4956.4541"
        id="text32787-2"><tspan
          sodipodi:role="line"
          id="tspan32785-6"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-2310.9067"
-         y="4907.3145">Skaffold: dev + devops</tspan></text>
+         x="-2688.0168"
+         y="4956.4541">Skaffold: dev + devops</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-2315.3137"
-       y="5025.6221"
+       x="-2692.4238"
+       y="5074.7617"
        id="text32787-2-1"><tspan
          sodipodi:role="line"
          id="tspan32785-6-8"
          style="font-size:22.5778px;stroke-width:0.264583"
-         x="-2315.3137"
-         y="5025.6221">Helm over Kustomize (IDEA support)</tspan></text>
+         x="-2692.4238"
+         y="5074.7617">Helm over Kustomize (IDEA support)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1923,6 +1923,14 @@
          x="-204.63033"
          y="3025.7126"
          id="tspan285709">cluster overview -&gt; namespaces -&gt; nodes -&gt; applications -&gt; peak java -&gt; namespace overview -&gt; terminal -&gt; log</tspan></text>
+    <image
+       width="508"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="Peek%202023-02-09%2015-26.gif"
+       id="image286204"
+       x="188.29826"
+       y="4995.3882" />
   </g>
   <style
      type="text/css"

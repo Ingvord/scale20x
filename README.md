@@ -6,4 +6,4 @@ Created with [inkscape](https://github.com/inkscape/inkscape) + [sozi](https://g
 
 ## Intended auditorium
 
-People famialiar with K8s; may or may not having migration experience; do understand K8s internals.
+People famialiar with K8s; may or may not having migration experience; do understand K8s internals and associated technical difficulties for a migration process.

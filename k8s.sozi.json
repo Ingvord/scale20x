@@ -4264,7 +4264,7 @@
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 0,
+      "transitionDurationMs": 1000,
       "showInFrameList": true,
       "showFrameNumber": true,
       "layerProperties": {
@@ -4294,10 +4294,10 @@
           "opacity": 1,
           "angle": 0,
           "clipped": true,
-          "clipXOffset": 0,
-          "clipYOffset": -0.1714678793710216,
-          "clipWidthFactor": 1.0137338719043167,
-          "clipHeightFactor": 1.004580152671736
+          "clipXOffset": -0.8432742353763983,
+          "clipYOffset": 5.956707160502145,
+          "clipWidthFactor": 1.0137339055793992,
+          "clipHeightFactor": 0.21526717557251906
         },
         "__sozi_auto__": {
           "cx": -1002.0283127973775,
@@ -4307,10 +4307,10 @@
           "opacity": 1,
           "angle": 0,
           "clipped": true,
-          "clipXOffset": 0,
-          "clipYOffset": -0.1714678793710216,
-          "clipWidthFactor": 1.0137338719043167,
-          "clipHeightFactor": 1.004580152671736
+          "clipXOffset": -0.8432742353763983,
+          "clipYOffset": 5.956707160502145,
+          "clipWidthFactor": 1.0137339055793992,
+          "clipHeightFactor": 0.21526717557251906
         }
       },
       "cameraOffsets": {

@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.11313708"
-     inkscape:cx="-1608.6679"
-     inkscape:cy="5073.4912"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="-3734.4077"
+     inkscape:cy="47628.061"
      inkscape:window-width="3387"
      inkscape:window-height="1907"
      inkscape:window-x="1016"
@@ -2930,14 +2930,6 @@
        id="image38997"
        x="-1104.6649"
        y="11999.873" />
-    <image
-       width="203.46458"
-       height="152.39999"
-       preserveAspectRatio="none"
-       xlink:href="Screenshot_20230213_115835.png"
-       id="image39039"
-       x="-1099.0444"
-       y="12482.637" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -4526,6 +4518,14 @@
          x="-1645.0459"
          y="293.2562"
          id="tspan235371">                                                                                                        across academic, government, industry, and public domains.</tspan></text>
+    <image
+       width="205.31667"
+       height="143.93333"
+       preserveAspectRatio="none"
+       xlink:href="Screenshot_20230301_123818.png"
+       id="image245250"
+       x="-1099.0444"
+       y="12482.637" />
   </g>
   <style
      type="text/css"

@@ -4334,7 +4334,7 @@
       "frameId": "frame2475",
       "title": "Conclusion",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "Automatic scaling; canary deployments; etc",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 0,
@@ -4628,7 +4628,7 @@
   ],
   "customFiles": [],
   "selectedFrames": [
-    "frame5176"
+    "frame2475"
   ],
   "selectedLayers": [
     "layer1",

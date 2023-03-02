@@ -3531,7 +3531,7 @@
       "frameId": "frame5176",
       "title": "Ln8",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "Good point to introduce policies, like wich artifacts and how they are produced",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 0,
@@ -4628,7 +4628,7 @@
   ],
   "customFiles": [],
   "selectedFrames": [
-    "frame7712"
+    "frame5176"
   ],
   "selectedLayers": [
     "layer1",

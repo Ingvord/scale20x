@@ -1586,8 +1586,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": -561.6229848265762,
-          "cy": 2322.800921108686,
+          "cx": -1432.1453504352935,
+          "cy": 2257.535738240558,
           "width": 1118.1461476672043,
           "height": 628.6572761562394,
           "opacity": 1,
@@ -1599,8 +1599,8 @@
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
-          "cx": -561.6229848265762,
-          "cy": 2322.800921108686,
+          "cx": -1432.1453504352935,
+          "cy": 2257.535738240558,
           "width": 1118.1461476672043,
           "height": 628.6572761562394,
           "opacity": 1,
@@ -1614,15 +1614,15 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -2545.8257436156387,
-          "deltaY": 810.256731655561,
+          "deltaX": -3416.348109224356,
+          "deltaY": 744.9915487874332,
           "widthFactor": 2.4475351654620368,
           "heightFactor": 2.11698025706377,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": -2545.8257436156387,
-          "deltaY": 810.256731655561,
+          "deltaX": -3416.348109224356,
+          "deltaY": 744.9915487874332,
           "widthFactor": 2.4475351654620368,
           "heightFactor": 2.11698025706377,
           "deltaAngle": 0
@@ -1659,8 +1659,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 543.0889953477986,
-          "cy": 2373.5010141416037,
+          "cx": -341.27992757803713,
+          "cy": 2273.483100239278,
           "width": 876.0967646331623,
           "height": 492.5694256092028,
           "opacity": 1,
@@ -1668,12 +1668,12 @@
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
+          "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
-          "cx": 543.0889953477986,
-          "cy": 2373.5010141416037,
+          "cx": -341.27992757803713,
+          "cy": 2273.483100239278,
           "width": 876.0967646331623,
           "height": 492.5694256092028,
           "opacity": 1,
@@ -1681,21 +1681,21 @@
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
+          "clipWidthFactor": 1,
           "clipHeightFactor": 1
         }
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -1441.113763441264,
-          "deltaY": 860.9568246884787,
+          "deltaX": -2325.4826863670996,
+          "deltaY": 760.938910786153,
           "widthFactor": 1.91770784549122,
           "heightFactor": 1.6587094253065928,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": -1441.113763441264,
-          "deltaY": 860.9568246884787,
+          "deltaX": -2325.4826863670996,
+          "deltaY": 760.938910786153,
           "widthFactor": 1.91770784549122,
           "heightFactor": 1.6587094253065928,
           "deltaAngle": 0
@@ -2363,7 +2363,7 @@
       "frameId": "frame2363",
       "title": "useful tip",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "This simple command safed me tons of time",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 0,
@@ -3385,7 +3385,7 @@
       "frameId": "frame6609",
       "title": "Ln7.zoom",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "Multiple self-hosted flavors with different purposes",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 0,
@@ -3750,7 +3750,7 @@
       "frameId": "frame8286",
       "title": "workshop.zoom.2",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "Another option - invite or buy some trainings",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 3000,
@@ -4628,7 +4628,7 @@
   ],
   "customFiles": [],
   "selectedFrames": [
-    "frame2475"
+    "frame8286"
   ],
   "selectedLayers": [
     "layer1",
